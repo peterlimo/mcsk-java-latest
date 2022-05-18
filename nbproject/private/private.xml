@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/nfft/storage/package-info.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/cli/Client.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/cli/Query.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/nfft/storage/Storage.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/nfft/storage/NFFTFingerprintQueryMatch.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/ncteq/storage/NCteQFingerprintQueryMatch.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/nfft/storage/NFFTMapDBStorage.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/test/be/panako/tests/MatchTest.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/ncteq/storage/NCteQMapDBStorage.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/cli/Panako.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/nfft/storage/NFFTFingerprintHit.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/ncteq/storage/NCteQFingerprintHit.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/QueryResult.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/QueryResultHandler.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/src/be/panako/strategy/ncteq/NCteQFingerprint.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/cuda/be/panako/util/cufft/CudaFFT.java</file>
+            <file>file:/C:/Users/user/Documents/Panako-master/build/build.xml</file>
+        </group>
+    </open-files>
+</project-private>
